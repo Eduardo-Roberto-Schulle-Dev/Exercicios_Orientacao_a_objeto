@@ -1,2 +1,0 @@
-# Somadosnumeros
-Exercicio da faculdade
